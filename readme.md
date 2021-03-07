@@ -34,7 +34,11 @@ Extensios
 
 Run code configuration > Run in terminal
 
-![Imgur](https://imgur.com/TOLzeYr.png)
+![configuração](https://imgur.com/TOLzeYr.png)
+
+Resultado do teste compilado:
+
+![terminal rodando o codigo](https://imgur.com/RlizE47.png)
 
 ###### Obs:
 Com isso o VS Code irá utilizar o terminal que estiver configurado no computador, lógico que o DevC++ oferece isso tudo já previamente confiurado, porém, utilziar um editor de código/IDE amplamente utilziado no mercado pode ser muito bom para quem quiser trabalhar na área, fora o fato de que o VSCode tem vários recursos disponíveis para quem quer ser programador.
