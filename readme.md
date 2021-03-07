@@ -2,4 +2,4 @@
 
 1 - instale o plugin
 
-[C/C++ da Microsoft](https://imgur.com/1zdZOGX)
+![C/C++ da Microsoft](https://i.imgur.com/1zdZOGX.png)
